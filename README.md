@@ -33,7 +33,7 @@ Developed by: Balasuriya M
 RegisterNumber:  212224240021
 */
 ```
-```
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier, plot_tree
